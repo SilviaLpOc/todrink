@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Clos Maria",
+    "producer": "Clos Maria",
+    "do": "Montsant",
+    "type": "Red",
+    "year": "2016",
+    "varieties": "Garnatxa and merlot",
+    "price": "20",
+    "website": "https://www.closmaria.com/"
+  },
+  {
+    "name": "Brau de Bot",
+    "producer": "Vins Sant Josep",
+    "do": "Terra Alta",
+    "type": "Red",
+    "year": "2018",
+    "varieties": "Tempranillo and merlot",
+    "price": "7",
+    "website": "https://santjosepwines.com/"
+  },
+  {
+    "name": "Onix Classic",
+    "producer": "Vinicola del Priorat",
+    "do": "Priorat",
+    "type": "Red",
+    "year": "2019",
+    "varieties": "Mazuelo and garnatxa",
+    "price": "10",
+    "website": "https://www.vinicoladelpriorat.com/"
+  }
+]
