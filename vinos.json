@@ -23,4 +23,31 @@
       "origen": "Rota",
       "año": 1995
    }
+   "lista":
+   [
+   {
+      "userId": 1,
+      "nombre": 1,
+      "origen": "Jerez",
+      "año": 2002
+   },
+   {
+      "userId": 1,
+      "nombre": 2,
+      "origen": "Sanlucar",
+      "año": 2000
+   },
+   {
+      "userId": 1,
+      "nombre": 3,
+      "origen": "Trebujena",
+      "año": 1999
+   },
+   {
+      "userId": 1,
+      "nombre": 4,
+      "origen": "Rota",
+      "año": 1995
+   }
+]
 ]
