@@ -2,31 +2,28 @@
     "wines":[
 {
       "userId": 1,
-      "nombre": 1,
-      "origen": "Jerez",
-      "anio": 2002
+      "nombre": "Vino Fino",
+      "origen": "Jerez de la Frontera",
+      "anio": 2020
    },
    {
-      "userId": 1,
-      "nombre": 2,
-      "origen": "Sanlucar",
-      "anio": 2000
+      "userId": 2,
+      "nombre": "Manzanilla",
+      "origen": "Sanlucar de Barrameda",
+      "anio": 2021
    },
    {
-      "userId": 1,
-      "nombre": 3,
-      "origen": "Trebujena",
-      "anio": 1999
+      "userId": 3,
+      "nombre": "Amontillado",
+      "origen": "Montilla-Moriles",
+      "anio": 2019
    },
    {
-      "userId": 1,
-      "nombre": 4,
-      "origen": "Rota",
-      "anio": 1995
+      "userId": 4,
+      "nombre": "Pedro Ximenez",
+      "origen": "Málaga",
+      "anio": 2018
    }
 
     ]
 }
-
-  
- 
